@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+e8d25861d081beb5fbcbfca597f921fe77ddfc1d refs/heads/add/public_cert
+fae57e3b07f18a33f56dc3a4660e9fde12dea7c3 refs/heads/create_script_for_quick_test
+8f03113dfc27084d08771a064bcf1a11dce88e2c refs/heads/feat/addMandatoryFiles
+c69c163d295210477cf5acea326dda2206897737 refs/heads/master
+83b0e4c8edad4e4df98f1941fca43a2851ad0756 refs/heads/refactor/mandatoryfiles

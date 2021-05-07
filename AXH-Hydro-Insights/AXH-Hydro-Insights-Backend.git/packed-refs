@@ -1,0 +1,27 @@
+# pack-refs with: peeled fully-peeled sorted 
+2cbbe248abafd6870c7c30cabf178c56a6bc34ab refs/heads/HYD-88-clean-tables
+da17ff881713e5f15e10def9e0f06a15bc58b023 refs/heads/Refactor/next
+17f89f6aa40d089b920f233c2b9cf62c43af0c82 refs/heads/Refactor/one_plot_fits_all
+c280c28dbcd2f9283e0d6536149e8269d8d025d6 refs/heads/dev
+b89fbf163babc1cc25c65debc5d75f9381a35cb1 refs/heads/feat/Alarms
+87273da2019aeba65d38eac03323fe6bef469fe3 refs/heads/feat/Alarms-revert-from-dev
+471a451d92ec59ee503b7476bbbae3c15a122cf9 refs/heads/feat/HYD-124-Alarms
+bafbfe96862ce35d6553da8612bad53f1f9df8cf refs/heads/feat/configurable-modules
+42da4ad68474c7218bfbfad6381f4cbd1320ab6a refs/heads/feat/module_date_picker_after_refactoring
+8cb24c83da4e77ea96dd640a90aab8e045385ac3 refs/heads/feat/sprint-11
+67b43c0f997da5271b8519862bd8bab6abbce036 refs/heads/feat/sprint-11-dev
+52ff5bf2e5850d16db49c68387978eb735ca5eca refs/heads/feat/trade_monitoring_after_refactoring
+985493ecfea7290e511595a966397e6f06a8dd5e refs/heads/feat/wirkunggradkurven
+2b28b3a578f09e127395a4fdbc7af1cf435b2d56 refs/heads/fix/refactor_visualization_access
+2f508894a05ae06e52055f150651328fb1afcf7d refs/heads/fix/refactor_visualization_access-revert-from-dev
+13a618443a7f9a1da7a854bee172d3a4bcaf0fac refs/heads/fix/refactor_visualization_access-revert-from-dev-revert-from-dev
+339e714b3ca81e6407620a4c918f4c88170da62e refs/heads/lab/ACN-71-test-delivery-to-lab
+ec2cbd9e2458cfd673866fac7a078f1c04df47aa refs/heads/master
+392018186031273485b13c51fae59d3e68a6d82e refs/heads/nonprod/ACN-71-nonprod-from-mstate
+02e39ceeecfc1fed8086b07ea8afdfeedb557cc9 refs/heads/nonprod/ACN-71-test-delivery-to-nonprod
+7452b7b0b27baf2dadfb46cea94b3967a2f47cd6 refs/heads/prod/ACN-71-prod-from-mstate
+c5fa2c7f1eaf8d2ff95120eb126898160267d460 refs/heads/release
+57d41ba2963d8f745689851d4d562cee0b58f1b7 refs/tags/V2.0.1
+^261400b5b1311a201988a3ee4b4e286e2b3f1fc4
+5dd20e345f2a9f99884ba5f6b109c6d30bc42f9c refs/tags/V2.0.3
+^27baff06a7a87e77ec4b11b9ea93cc3788ddb5a9

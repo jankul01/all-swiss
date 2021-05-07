@@ -1,0 +1,30 @@
+# pack-refs with: peeled fully-peeled sorted 
+df9aa79f70bad2b2acb17f8c4e5c34f1587891dd refs/heads/Demo/different_sources_one_plot
+27f01f59333cc070660972ee577bb52602c0e431 refs/heads/Refactor/next
+c4d217eaf026461f5cbd423d3903a5c61c626604 refs/heads/Refactor/one_plot_fits_all
+7ef30a8491250671ef5d2cdd321ed4a7582dc550 refs/heads/dev
+ba99f76c429279b56e331e07a2666bb0a8370072 refs/heads/feat/3d_surface_plot
+282593df8436da4b6e94bba593f658ec09763a68 refs/heads/feat/Alarms
+31d35d5cd4a5afd9aa90573fa7f4273b6d28b24f refs/heads/feat/HYD-126-Alarms
+be26c3ea4f4ec3531259d230f7fd938cfa3af48e refs/heads/feat/addrevopt
+a50ff43603eefdf699a9ba92614a2b70701d785b refs/heads/feat/anaomaly_detector
+aaefca1db84b7b075188fffcbfbdd24943e48086 refs/heads/feat/configurable-modules
+a91b71ac155b6388b7544162ecbfae8627739173 refs/heads/feat/etahydro_custom_plot
+c9bdcbf351a07eeca3dce5e6ec5f1ab9ceae0e56 refs/heads/feat/modline
+529c705e69f61d4efdc228b85e8653675da27451 refs/heads/feat/sprint-11
+113228e0bff5f5703de105d722f38f421a572c7e refs/heads/feat/sprint-11fixdet
+0e472c1ec6eb162ead62a54ff4e0f40f4fe09315 refs/heads/feat/trade_monitoring_after_refactoring
+09941be5c03ff2ac118aa3a12f752d16c357473b refs/heads/feat/wirkungsgradkurve
+92ddbb739b6720a9f8c50708d64d09688e1b7b15 refs/heads/fix/HYD-164
+8a791f3003e8cfcd37c9efbc03c0cdf9f26a1d6a refs/heads/lab/ACN-71-test-delivery-to-lab
+b79f760cad49a28da76713d255671e1d0e66f1da refs/heads/master
+9a464efc5d5255b2c037c57ac856efbbc89d7134 refs/heads/nonprod/ACN-71-test-delivery-to-nonprod
+5b648005e42f667af856ae003931ed677c6fbeaf refs/heads/nonprod/ACN-71-test-nonprod-from-mstate
+5bae58efcff6039b5d8619b84a511981b4803018 refs/heads/prod/ACN-71-test-prod-from-mstate
+2753a8e9b1e16827e1d3f1b8a7869590305001c6 refs/heads/release
+806819fe3e2a9755dae29f5b69a2bf7a384abcdc refs/tags/V2.0.1
+^34b6b5fb14fc2ce66a788e78acf2a3f15866e89e
+cc46b95c120f2810b0f0f1a0659b0c337d0db870 refs/tags/V2.0.2
+^51c704b88c65e8adefea1f6307aacf2ebebb3caf
+9fa864067990132ee9ce6d02a1b111353d641a4a refs/tags/V2.0.3
+^fbc630be231ac94befd4ac0f7332a7648a6fc2fc

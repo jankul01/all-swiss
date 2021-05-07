@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+c49e3bc81b7110c51088b9408af9a36b7720fa8d refs/heads/feat/remove_transients
+f5526fb9a6d8a14b7018d845dd32d28842f30af9 refs/heads/feat/umbau_neue_architektur
+4ec66f05d70c71f26e37580e6591943f8e4a1bfa refs/heads/fix/get_model_bug_fix
+9ee7d24bbdf55af9585b89db3a231f2bda44e085 refs/heads/master
+6e014588bc0ff7a4262e561e0c66738695a1ff73 refs/heads/refactor/adapt_anomaly_detection_to_new_models
